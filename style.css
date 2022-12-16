@@ -8,8 +8,8 @@ body {
   min-height: 100vh;
 }
 
-section {
-  width: 1000px;
+header, section, main {
+  width: 1280px;
   margin: 0 auto;
   padding-top: 65px;
 }
@@ -74,6 +74,7 @@ p {
   font-size: 14px;
   line-height: 28px;
   color: #7d7987;
+  max-width: 438px;
 
   margin: 40px 0;
 }
