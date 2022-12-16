@@ -53,6 +53,8 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 0;
+  margin: auto;
 }
 
 h1 {
@@ -96,6 +98,10 @@ button {
   border-radius: 4px;
 
   cursor: pointer;
+}
+
+button:hover{
+  background: #559780;
 }
 
 footer {
